@@ -1,0 +1,14 @@
+434a6610251b63503617a0837b0a293f *DESCRIPTION
+e1de27f6f5e5cf1fdaefce858b5a2d4a *NAMESPACE
+06e6b95384eed7ab1be4ebf1311294c3 *R/QPgen.R
+7d8e6b10755a9294cf410e4d3c7e078a *R/QPmin.R
+71c2d2ed0a4a1be1a63c32319a8280e7 *R/countBounds.R
+49de171a978c700f9288aa3b21030e2b *R/hotLU.R
+30ad915b7cf2239032131df6795fa318 *R/initialPointFeasibility.R
+da9be5aecf41bdccf1067d1b4cae1035 *build/partial.rdb
+5fcd8bc075c9808dd9181bfd107d52eb *man/QPgen.internal.bilinear.Rd
+929bc4db599520e6f2b654258c00f8ac *man/QPgen.internal.concave.Rd
+6c3718c68da193c6310ba1d5b5dbc64d *man/QPgen.internal.convex.Rd
+7fd536ea9ed5bb80f0267b4775c4f048 *man/QPmin-package.Rd
+2d08b3817459f436a7921b3dc0efe224 *man/QPmin.Rd
+4cf773de31b0ab6f65fedadff34e210f *man/randomQP.Rd

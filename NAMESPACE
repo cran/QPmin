@@ -1,0 +1,4 @@
+importFrom("methods", "as", "new")
+importFrom("stats", "runif")
+import(Matrix)
+export(QPmin, QPgen.internal.bilinear, QPgen.internal.concave, QPgen.internal.convex, randomQP)
